@@ -1,0 +1,2 @@
+salom
+os moduli, pickle va open funksiyasini tushundim.

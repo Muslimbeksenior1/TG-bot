@@ -1,0 +1,95 @@
+{
+  "test_nomi": "Umumiy bilim testi",
+  "fanlar": [
+    {
+      "fan_nomi": "Matematika",
+      "savollar": [
+        {
+          "id": 1,
+          "savol": "EKUK(4, 6) nechaga teng?",
+          "variantlar": ["6", "12", "18", "24"],
+          "togri_javob": "12"
+        },
+        {
+          "id": 2,
+          "savol": "36 ning bo‘luvchilari soni nechta?",
+          "variantlar": ["6", "7", "8", "9"],
+          "togri_javob": "9"
+        }
+      ]
+    },
+    {
+      "fan_nomi": "Informatika",
+      "savollar": [
+        {
+          "id": 3,
+          "savol": "Python’da ro‘yxat qaysi qavs bilan yoziladi?",
+          "variantlar": ["{}", "()", "[]", "<>"],
+          "togri_javob": "[]"
+        },
+        {
+          "id": 4,
+          "savol": "JSON qaysi formatda saqlanadi?",
+          "variantlar": ["Text", "Binary", "Image", "Audio"],
+          "togri_javob": "Text"
+        }
+      ]
+    },
+    {
+      "fan_nomi": "Fizika",
+      "savollar": [
+        {
+          "id": 5,
+          "savol": "Tezlik formulasi qaysi?",
+          "variantlar": ["v = s × t", "v = s / t", "v = t / s", "v = s + t"],
+          "togri_javob": "v = s / t"
+        },
+        {
+          "id": 6,
+          "savol": "Kuchning o‘lchov birligi qaysi?",
+          "variantlar": ["Joul", "Vatt", "Nyuton", "Paskal"],
+          "togri_javob": "Nyuton"
+        }
+      ]
+    },
+    {
+      "fan_nomi": "Tarix",
+      "savollar": [
+        {
+          "id": 7,
+          "savol": "Amir Temur qaysi asrda yashagan?",
+          "variantlar": ["XII asr", "XIII asr", "XIV asr", "XV asr"],
+          "togri_javob": "XIV asr"
+        },
+        {
+          "id": 8,
+          "savol": "Buyuk Ipak yo‘li nima edi?",
+          "variantlar": [
+            "Harbiy yo‘l",
+            "Savdo yo‘li",
+            "Daryo",
+            "Davlat nomi"
+          ],
+          "togri_javob": "Savdo yo‘li"
+        }
+      ]
+    },
+    {
+      "fan_nomi": "Biologiya",
+      "savollar": [
+        {
+          "id": 9,
+          "savol": "O‘simliklar ovqatni qaysi jarayon orqali hosil qiladi?",
+          "variantlar": ["Nafas olish", "Fotosintez", "Bug‘lanish", "Hazm"],
+          "togri_javob": "Fotosintez"
+        },
+        {
+          "id": 10,
+          "savol": "Inson yuragi nechta kameradan iborat?",
+          "variantlar": ["2", "3", "4", "5"],
+          "togri_javob": "4"
+        }
+      ]
+    }
+  ]
+}
