@@ -7,7 +7,7 @@ import requests
 
 from buttons import main_menu, menu_buttons, numbers_buttons
 
-bot = Bot(token="8541478053:AAGuBZ5ek5g3rnF7wyzA5np3QlHTkFIVeV0")
+bot = Bot(token="bot")
 dp = Dispatcher()
 logging.basicConfig(level=logging.INFO)
 
