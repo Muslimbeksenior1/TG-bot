@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import CommandStart
 from googletrans import Translator
 
-TOKEN = "7615703305:AAFyA359FjJK3BxJ4x3L-v6WxgX7Jd8IPyk"
+TOKEN = ""
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
