@@ -8,7 +8,7 @@ from databasehaqda import rasm
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token="8541478053:AAGuBZ5ek5g3rnF7wyzA5np3QlHTkFIVeV0")
+bot = Bot(token="")
 dp = Dispatcher()
 
 
